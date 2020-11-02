@@ -1,0 +1,14 @@
+/*Importing default angular material css theme. */
+
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+@import "nDefaults.scss";
+
+.home{
+    color:orange;
+}
+.contactus{
+    color:green;
+}
+.logout{
+    color:red;
+}
